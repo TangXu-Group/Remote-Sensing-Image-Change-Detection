@@ -1,6 +1,6 @@
 # WNet
 
-This repository provides the code for the methods and experiments presented in our paper '**WNet: W-shaped Hierarchical Network for Remote Sensingmage Change Detection**'. (TGRS2023)
+This repository provides the code for the methods and experiments presented in our paper '**WNet: W-shaped Hierarchical Network for Remote Sensing Image Change Detection**'. (TGRS2023)
 
 **If you have any questions, you can send me an email. My mail address is 21181214261@stu.xidian.edu.cn.**
 
