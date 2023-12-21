@@ -76,7 +76,7 @@ def process_images(root, mode, output_dirs):  # 读取文件list名字
 
 
 
-root = 'D:\djy\levir'
+root = 'add your dataset location here'
 
 mode = ['train', 'val', 'test']
 output_dirs = ['edge_slim', 'edge']
