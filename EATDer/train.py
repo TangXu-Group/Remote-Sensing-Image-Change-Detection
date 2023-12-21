@@ -9,8 +9,8 @@ from imgetest import innetimgtest
 
 
 
-root=  'D:/djy/CDD256'
-#root=  '/home/amax/djy/LEVIR-CD256'
+root=  'add your dataset location here'
+
 
 
 net1 =EATDer()
