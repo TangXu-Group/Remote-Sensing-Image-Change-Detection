@@ -1,5 +1,5 @@
 from img_read import  Data
-from  nocnn import EATDer
+from  EATDernet import EATDer
 from torch.utils.data import DataLoader
 import torch
 import torch.optim as optim
