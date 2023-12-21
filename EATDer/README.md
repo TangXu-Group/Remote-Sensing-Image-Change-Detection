@@ -13,9 +13,9 @@ This repository provides the code for the methods and experiments presented in o
 
 Download the building change detection dataset. 
 
+- [CDD](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)
 - [WHU-CD](https://study.rsgis.whu.edu.cn/pages/download/)
 - [LEVIR-CD](https://justchenhao.github.io/LEVIR/)
-- [SYSU-CD](https://github.com/liumency/SYSU-CD)
 
 Prepare datasets into following structure,
 
