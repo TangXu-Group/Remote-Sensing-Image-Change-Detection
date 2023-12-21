@@ -39,8 +39,10 @@ In the following experiments, each image in the dataset is pre-cropped into mult
 
 ## Preparation
 
-* Install dependencies using pip install -r requirements.txt
-
+* Install dependencies using
+```
+pip install -r requirements.txt
+```
 * Change the root address in datamaker.py to the address of the dataset you want to train on. For example: root = 'D:\dataset\CDD'
 
 * Run datamaker.py to generate edge and edge_slim folders in each dataset and create the corresponding edge data for training.
